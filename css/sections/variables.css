@@ -1,0 +1,22 @@
+:root {
+  --clr-heading: rgb(0, 10, 45);
+  --clr-para: #777;
+  --clr-para-tint: #e4e4e4;
+  --clr-white: #fff;
+  --clr-black: #212529;
+  --clr-helper: #8490ff;
+  --clr-helper-tint: #f3f4ff;
+  --clr-bg: rgb(249, 249, 255);
+  --gradient: linear-gradient(
+    to right bottom,
+    rgb(132, 144, 255) 0%,
+    rgb(98, 189, 252) 100%
+  );
+  --gradientsupport: -webkit-linear-gradient(
+    to right bottom,
+    rgb(132, 144, 255) 0%,
+    rgb(98, 189, 252) 100%
+  );
+
+  --shadow: 0px 0px 2rem 1rem rgba(132, 144, 255, 0.2);
+}
