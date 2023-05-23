@@ -1,0 +1,9 @@
+.bio-image {
+  display: grid;
+  place-items: center;
+}
+
+.bio-image img {
+  max-width: 80%;
+  box-shadow: -2rem -2rem 0 0 var(--clr-helper);
+}

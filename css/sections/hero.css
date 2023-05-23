@@ -18,6 +18,7 @@
 .hero-image {
   max-width: 80%;
   object-fit: contain;
+  box-shadow: 2rem 2rem 0 0 var(--clr-helper);
 }
 
 .hero-heading {
