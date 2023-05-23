@@ -18,5 +18,7 @@
     rgb(98, 189, 252) 100%
   );
 
-  --shadow: 0px 0px 2rem 1rem rgba(132, 144, 255, 0.2);
+  --shadow: 0px 0px 2rem 1rem rgba(12, 44, 255, 0.2);
+  --shadowSupport: 0px 2rem 4rem rgba(12, 44, 255, 0.2);
+  --shadowSupport-2: 0px 1rem 2rem rgba(12, 44, 255, 0.4);
 }

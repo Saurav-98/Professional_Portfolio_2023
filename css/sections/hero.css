@@ -1,0 +1,41 @@
+.section-hero {
+  background-color: var(--clr-bg);
+}
+
+.section-hero-data {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+.hero-top-data {
+  text-transform: uppercase;
+  font-weight: 500;
+  font-style: 1.5rem;
+  color: var(--clr-helper);
+}
+
+.hero-image {
+  max-width: 80%;
+  object-fit: contain;
+}
+
+.hero-heading {
+  font-weight: 700;
+  font-size: 6rem;
+  /* text-transform: uppercase; */
+  font-family: "Ubuntu", sans-serif;
+}
+
+/* font-family: 'Kanit', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Ubuntu', sans-serif; */
+.hero-para {
+  margin: 1.5rem 0 5rem;
+  max-width: 60rem;
+}
+
+.section-hero-image {
+  display: grid;
+  place-items: center;
+}
