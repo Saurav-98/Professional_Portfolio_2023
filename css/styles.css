@@ -11,3 +11,4 @@ font-family: 'Ubuntu', sans-serif; */
 @import url(./sections/hero.css);
 @import url(./sections/bio.css);
 @import url(./sections/projects.css);
+@import url(./sections/counter.css);
