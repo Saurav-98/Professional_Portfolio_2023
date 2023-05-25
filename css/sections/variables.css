@@ -17,6 +17,7 @@
     rgb(132, 144, 255) 0%,
     rgb(98, 189, 252) 100%
   );
+  --icon-bg: rgba(144, 172, 209, 0.2);
 
   --shadow: 0px 0px 2rem 1rem rgba(12, 44, 255, 0.2);
   --shadowSupport: 0px 2rem 4rem rgba(12, 44, 255, 0.2);
